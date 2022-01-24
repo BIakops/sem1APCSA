@@ -6,6 +6,7 @@ public class smth {
     static float cool = 1.2975012760259895720482942492f;
     private int problemsId = 0;
 
+    /// Endgame
     public smth(float diff, int Id) {
         // probDiff[] = diff;
         problemsId = Id;
